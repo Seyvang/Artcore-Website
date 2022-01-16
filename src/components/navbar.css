@@ -1,0 +1,9 @@
+.navbarClick{
+  padding: 1rem;
+  color: brown;
+  text-decoration:none;
+  
+}
+.navbarClick:hover{
+    color: gold;
+}

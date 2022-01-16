@@ -1,0 +1,25 @@
+{
+    "artists":[
+        {
+            "id": 0,
+            "name": "Feryquitous",
+            "albums": ["ZheleNaught", "saqriphrx", "Irui", "IdenTism", 
+                "Freedom", "Byakkai", "Ideal", "C", "M"],
+            "wikipedia": "https://remywiki.com/Feryquitous",
+            "links": {
+                "twitter": "https://twitter.com/feryquitous_"
+            }
+        },
+        {
+            "id": 1,
+            "name": "Camellia",
+            "albums": ["Galaxy Burst", "heart of android", "Blackmagik Blazing", "Xronial Xero", 
+                "Tero I/O", "U.U.F.O"],
+            "wikipedia": "https://remywiki.com/Masaya_Oya",
+            "links": {
+                "Twitter": "https://twitter.com/cametek",
+                "Youtube": "https://www.youtube.com/c/Kamelcamellia"
+            }
+        }
+]
+}
