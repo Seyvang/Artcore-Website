@@ -2,10 +2,6 @@
   --headercolor: darkgray;
 }
 
-*{
-  background-color:dimgrey;
-}
-
 .App {
   text-align: center;
 }
@@ -16,7 +12,7 @@
 }
 
 .navHeading * {
-  background-color: inherit;
+  text-color: blue;
 }
 .navHeading {
   display: flex;
